@@ -1,6 +1,6 @@
 # Ayano
 
-yano is a CLI-based AI cybersecurity assistant that analyzes CVE vulnerabilities and finds related exploit references.
+ayano is a CLI-based AI cybersecurity assistant that analyzes CVE vulnerabilities and finds related exploit references.
 
 "exploits may benot apropiate"
 
