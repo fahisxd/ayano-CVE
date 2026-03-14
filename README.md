@@ -24,7 +24,7 @@ git clone https://github.com/fahisxd/ayano-CVE.git
 ```
 
 ```bash
-cd ayano
+cd ayano-CVE
 ```
 
 Create a virtual environment:
