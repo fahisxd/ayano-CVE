@@ -102,4 +102,6 @@ Created by Fahis.
 
 ## whoami
 
-i am an cybersecurity nerd, basically wanna explore this amzing world!! also i am 15 year old so pls suggest imporves for my future projects
+i am an cybersecurity nerd, basically wanna explore this amazing world!! also i am 15 year old so pls suggest imporves for my future projects
+
+*spare typos*
