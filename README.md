@@ -19,8 +19,9 @@ The tool fetches CVE data, searches for public exploit repositories, and generat
 - AI-powered explanation using agents
 
 ## Installation
-
-git clone *will edit*
+```bash
+git clone https://github.com/fahisxd/ayano-CVE.git
+```
 
 ```bash
 cd ayano
