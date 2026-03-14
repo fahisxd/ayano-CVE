@@ -27,7 +27,7 @@ print("""
     
 =================================
         AYANO v1.0
-   DEVELPOED BY FAHISXD
+   DEVELOPOED BY FAHISXD
 =================================
       
 """)
@@ -65,6 +65,7 @@ try:
     description = data["vulnerabilities"][0]["cve"]["descriptions"][0]["value"]
 except:
     print("CVE not found.")
+    sys.exit()
 
 #defining the crew with the agent and task, you can add more agents and tasks if you want to expand the functionality of the tool,
 #for example you can add an agent that looks for patches or mitigations for the CVE, or an agent that checks if the CVE is being actively exploited in the wild, 
@@ -93,5 +94,4 @@ t.join()
 print(Fore.GREEN + "\rAnalysis complete!\n")
 
 #printing the results, if you wan you can simply print(result) without styling
-print(Fore.CYAN + f"Result: {result}" + Style.RESET_ALL)
-
+print(Fore.CYAN + result + Style.RESET_ALL)
