@@ -10,6 +10,9 @@ input: CVE-2021-44228
 
 The tool fetches CVE data, searches for public exploit repositories, and generates a concise vulnerability report.
 
+*Contributions are welcome.
+Feel free to open an issue or submit a pull request.*
+
 ## Features
 
 - CVE vulnerability analysis
